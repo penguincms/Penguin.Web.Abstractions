@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Web.Abstractions</name>
+        <name>Penguin.Web.Abstractions.Local</name>
     </assembly>
     <members>
     </members>
