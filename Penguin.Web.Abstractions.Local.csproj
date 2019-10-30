@@ -5,6 +5,8 @@
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Web.Abstractions</PackageProjectUrl>
     <Version>1.0.0</Version>
     <Description>Not Available</Description>
+    <AssemblyName>Penguin.Web.Abstractions</AssemblyName>
+    <RootNamespace>Penguin.Web.Abstractions</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
