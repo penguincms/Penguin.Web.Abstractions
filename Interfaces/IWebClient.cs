@@ -11,5 +11,6 @@ namespace Penguin.Web.Abstractions
         string DownloadString(string url);
 
         string UploadString(string url, string data);
+        string UploadString(string url, string method, string data);
     }
 }
