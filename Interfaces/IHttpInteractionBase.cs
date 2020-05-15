@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Penguin.Web.Abstractions.Interfaces
 {
     public interface IHttpInteractionBase
     {
-        string ContentType { get; }
         string BodyText { get; }
+        string ContentType { get; }
         IDictionary<string, string> Headers { get; }
     }
 }
